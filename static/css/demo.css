@@ -1,0 +1,15 @@
+body{
+  background: skyblue;
+  color:blue;
+  text-align: center;
+}
+ul{
+  font-size: 20px;
+  text-align:left;
+}
+img{
+  height: 500px;
+  width: 400px;
+  margin: 10px;
+  border: 3px solid blue;
+}
